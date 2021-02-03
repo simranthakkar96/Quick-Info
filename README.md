@@ -26,3 +26,11 @@ features using DBHelper class and DatabaseAdapter Class
 Download apk file onto android device
 Install that file to run the application
 
+![Screenshot](Notes_1.png)
+![Screenshot](Notes_2.png)
+![Screenshot](Notes_3.png)
+![Screenshot](Notes_4.png)
+![Screenshot](Notes_5.png)
+![Screenshot](Notes_6.png)
+![Screenshot](Notes_7.png)
+
